@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='nose-growl',
-    version='0.0.1',
+    version='0.0.2',
     py_modules=['growl'],
     install_requires=['gntp', 'nose'],
     entry_points = {
