@@ -4,5 +4,5 @@ test results to Growl via gntp.
 
 To install:
 
-pip install -e https://github.com/mattjmorrison/nose-growl-plugin.git@v0.0.2#egg=growl
+pip install -e git+https://github.com/mattjmorrison/nose-growl-plugin.git@v0.0.2#egg=growl
 
