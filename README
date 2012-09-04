@@ -1,0 +1,8 @@
+
+This is a simple nose plugin that will push 
+test results to Growl via gntp.
+
+To install:
+
+pip install -e https://github.com/mattjmorrison/nose-growl-plugin.git@v0.0.1#egg=growl
+
